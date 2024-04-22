@@ -31,8 +31,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "gulp-format-md": "^0.1.11",
-    "mocha": "^3.2.0"
+    "mocha": "^10"
   },
   "keywords": [
     "break",
